@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "6.0.0",
   "versionSystem": "6.0.0",
-  "nomeEmpresa": "Atendechat",
+  "nomeEmpresa": "OpenBR",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
